@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Sleepyz
 
-<!--
-**SleepyzOfficial/SleepyzOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on blending code, design, and motion to build clean digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  What I Do
+
+* **Web Development**  — Building responsive websites and interactive front-end layouts.
+* **Graphics Design**  — Crafting clean visual identities, user interfaces, and graphic assets.
+* **Video Editing**  — High-quality post-production, color grading, and dynamic video content.
+
+---
+
+## 🛠️ Tech & Tools
+
+* **Web:** Webflow | Framer | HTML & CSS
+* **Design:** Photoshop | Illustrator | Figma
+* **Video:** Premiere Pro | After Effects
+
+---
+
+## 📫 Connect With Me
+
+* 💬 **Discord:** th1rd.party
