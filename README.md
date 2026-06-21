@@ -1,25 +1,25 @@
-# Hi there, I'm Sleepyz
+### Hey there 👋
 
-I focus on blending code, design, and motion to build clean digital experiences.
+I'm Sleepyz, a designer and developer.
 
----
+I mostly work on web development, graphics design, and video editing — crafting responsive layouts with Framer and Webflow.
 
-##  What I Do
+I also use Figma for UI design, Photoshop for graphic assets, and Premiere Pro for video production.
 
-* **Web Development**  — Building responsive websites and interactive front-end layouts.
-* **Graphics Design**  — Crafting clean visual identities, user interfaces, and graphic assets.
-* **Video Editing**  — High-quality post-production, color grading, and dynamic video content.
+This profile is a space where I'll be uploading custom web layouts, frontend experiments, and things I'm currently working on. Everything here is focused on clean visuals and solid user experience.
 
 ---
 
-## 🛠️ Tech & Tools
+### Tools & Tech
 
-* **Web:** Webflow | Framer | HTML & CSS
-* **Design:** Photoshop | Illustrator | Figma
-* **Video:** Premiere Pro | After Effects
+* Webflow, Framer, HTML, CSS
+* Figma, Photoshop, Illustrator
+* Premiere Pro, After Effects
 
 ---
 
-## 📫 Connect With Me
+### A Bit About Me
 
-* 💬 **Discord:** th1rd.party
+* 🎬 Passionate about cinematic video editing, color grading, and high-res upscaling
+* ⚙️ Love PC building, tweaking cooling setups, and hardware optimization
+* 📮 I like building things that are simple, useful, and easy to understand
